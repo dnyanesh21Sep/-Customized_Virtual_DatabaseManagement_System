@@ -25,7 +25,7 @@ It supports **insertion, deletion, selection, aggregation, and update** operatio
 
 ## 📊 Architecture Diagram
 
-text
+```text
 ┌────────────────────────────┐
 │ LinkedList<Employee> lobj  │
 └──────────────┬─────────────┘
