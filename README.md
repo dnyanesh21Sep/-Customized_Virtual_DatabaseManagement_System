@@ -25,7 +25,7 @@ It supports **insertion, deletion, selection, aggregation, and update** operatio
 
 ## 📊 Architecture Diagram
 
-```text
+text
 ┌────────────────────────────┐
 │ LinkedList<Employee> lobj  │
 └──────────────┬─────────────┘
@@ -42,7 +42,8 @@ It supports **insertion, deletion, selection, aggregation, and update** operatio
                │
                ▼
       (Multiple Employee Objects in LinkedList)
-🔹 Features
+
+## Features
 1️⃣ Insert Record
 INSERT INTO Employee VALUES (name, address, salary);
 -Auto-assigns EID.
